@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭 Hi I'm Anvesh 👋<br>I am currently working as AWS Data Engineer, interested in building Data pipelines which involves Extracting Modeling and writing predictive algo's on top of data to deliver insights and values. <br><br>🌱 I’m currently learning/working on Scalable Machine Learning/DL.<br>⚡ During free time we exploring India by riding motorcycles and enjoying the adventure of bike riding.<br>Fun Fact: everything about the past😅<br><br>I'm best reached via LinkedIn
+🔭 Hi I'm Anvesh 👋<br>I am currently working as AWS Data Engineer, interested in building Data pipelines which involves Extracting Modeling and writing Predictive Algorithm on top of data to deliver insights and values. <br><br>🌱 I’m currently learning/working on Scalable Machine Learning/DL.<br>⚡ During free time we exploring India by riding motorcycles and enjoying the adventure of bike riding.<br>Fun Fact: everything about the past😅<br><br>I'm best reached via LinkedIn
 
 
 ### 🌐 Socials:
